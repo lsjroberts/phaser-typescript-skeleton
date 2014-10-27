@@ -9,7 +9,7 @@
     "node-webkit",
     "skeleton"
   ],
-  "main": "dist/index.html",
+  "main": "./dist/index.html",
   "scripts": {
     "test": "mocha"
   },
